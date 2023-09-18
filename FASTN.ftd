@@ -1,18 +1,4 @@
 -- import: fastn
 
--- fastn.package: nishantjain10.github.io/hello-world-fastn-1
-favicon: /-/nishantjain10.github.io/hello-world-fastn-1/favicon.ico
+-- fastn.package: nishant-hello-world
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
-
--- fastn.auto-import: nishantjain10.github.io/hello-world-fastn-1/FASTN/ds
--- fastn.auto-import: nishantjain10.github.io/hello-world-fastn-1/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
